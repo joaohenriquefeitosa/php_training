@@ -5,6 +5,9 @@ $numbers = [-2, 10, -9, 8, 7, 11, -4, -5];
 
 /**
  * Check if value is positive
+ * 
+ * @param int $value
+ * @param int
  */
 function positive($value)
 {

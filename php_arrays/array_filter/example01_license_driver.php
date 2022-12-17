@@ -16,6 +16,9 @@ $people = [
 
 /**
  * Check if the values is equal to or greater than the limit
+ * 
+ * @param int $value
+ * @return int
  */
 function checkAge($value)
 {
